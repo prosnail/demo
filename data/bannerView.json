@@ -1,0 +1,20 @@
+{
+  "shoplistimg": [
+    "http:\/\/iwen.wiki\/zhichenshop\/shopping\/bannerView\/s1.png",
+    "http:\/\/iwen.wiki\/zhichenshop\/shopping\/bannerView\/s2.png",
+    "http:\/\/iwen.wiki\/zhichenshop\/shopping\/bannerView\/s3.png",
+    "http:\/\/iwen.wiki\/zhichenshop\/shopping\/bannerView\/s4.png"
+  ],
+  "shoplisttitle": [
+    "\u5317\u4eac\u7a3b\u9999\u6751\u8702\u871c\u86cb\u7cd58\u5757\/\u4efd",
+    "\u5317\u4eac\u7a3b\u9999\u6751\u725b\u820c\u997c6\u5757\/\u4efd",
+    "\u5317\u4eac\u7a3b\u9999\u6751\u62d4\u4e1d\u8089\u677e\u86cb\u7cd56\u5757 \u7ea6160g\/\u4efd",
+    "\u5317\u4eac\u7a3b\u9999\u6751\u9ed1\u9ebb\u6912\u76d05\u5757\/\u4efd"
+  ],
+  "shoplistmoney": [
+    "7.00",
+    "8.50",
+    "9.00",
+    "7.50"
+  ]
+}
