@@ -166,7 +166,11 @@
 	cursor: pointer;
 	text-decoration: none
 }
-
+.bottomimg{
+	width:100%;
+	position:absolute;
+	bottom:0px;
+}
 #valentine .close:hover {
 	background: #666
 }
