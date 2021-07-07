@@ -169,7 +169,13 @@
 .bottomimg{
 	width:100%;
 	position:absolute;
+	left:0px;
 	bottom:0px;
+	padding: 0;
+      margin: 0;
+      box-sizing: border-box;
+      background-image: linear-gradient(to bottom, #fff 50%, rgba(255, 255, 255, 0) 300%), url('img/xhs_1625617697617222.gif');
+      background-color: cornflowerblue;
 }
 #valentine .close:hover {
 	background: #666
