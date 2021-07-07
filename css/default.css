@@ -1,8 +1,8 @@
 ﻿body{margin:0;padding:0;background:#ffe;font-size:12px;overflow:auto}
 #mainDiv{width:100%;height:100%}
-#loveHeart{position: relative;
-    left: -18px;
-    top: 118px;
+#loveHeart{    position: absolute;
+    left: 208px;
+    top: 208px;
     float: left;
     width: 670px;
     height: 625px;
@@ -15,9 +15,9 @@
 #loveu{padding:5px;font-size:22px;margin-top:80px;margin-right:120px;text-align:right;display:none}
 #loveu .signature{margin-top:10px;font-size:20px;font-style:italic}
 #clickSound{display:none}
-#code{    position: absolute;
-   left: 472px;
-    top: 692px;
+#code{    position: relative;
+    left: 200px;
+    top: 472px;
     text-align: center;
     float: left;
     width: 186px;
