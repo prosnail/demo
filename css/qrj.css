@@ -127,22 +127,23 @@
 
 #valentine .heart-wrap .beat {
 	position: absolute;
-	top: 25px;
-	left: 130px;
-	animation-name: beat;
-	animation-duration: 1.6s;
-	animation-iteration-count: infinite;
-	animation-timing-function: ease-out;
-	transform-origin: bottom center
+    top: -3px;
+    left: 0px;
+    animation-name: beat;
+    animation-duration: 1.7s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-out;
+    transform-origin: center;
+    transform: inherit;
 }
 
 #valentine .tiny {
 	position: relative;
-	width: 0;
-	height: 0;
-	top: 0;
-	left: 200px;
-	z-index: 1
+    width: 0;
+    height: 0;
+    top: 0;
+    left: 0;
+    z-index: 1;
 }
 
 #valentine .close,#valentine .tiny img {
